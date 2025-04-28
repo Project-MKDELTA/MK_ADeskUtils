@@ -545,8 +545,8 @@ MESSAGES = {
         "ru": "Utils"
     },
     "main_author_info": {
-        "en": "  Author: MKultra69 | GitHub: https://github.com/MKultra6969/AnyDesk-reset",
-        "ru": "  Автор: MKultra69 | GitHub: https://github.com/MKultra6969/AnyDesk-reset"
+        "en": "  Author: MKultra69 | GitHub: https://github.com/Project-MKDELTA/MK_ADeskUtils",
+        "ru": "  Автор: MKultra69 | GitHub: https://github.com/Project-MKDELTA/MK_ADeskUtils"
     },
     "main_backup_folder_info": {
         "en": "  (Backup folder: {folder})",
